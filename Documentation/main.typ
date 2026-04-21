@@ -2,7 +2,7 @@
 
 //Paper and font declarations
 #set page(paper: "a4", margin: 1in)
-#set text(font: "Times New Roman", size: 12pt)
+#set text(size: 12pt)
 
 // Coverpage and Table of Contents
 #align(center)[
